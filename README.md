@@ -1,6 +1,9 @@
-# Project Title
+# Comparison of Surface Albedo and Top of Atmosphere Albedo in the Arctic
 
-Simple overview of use/purpose.
+This GitHub repository contains Python code used for data analysis executed as a part of 
+Msc thesis via the link below. Data analysis includes combination and reprojection of
+data, masking data, modelling results with SMAC and finally plotting the results. A
+dataset for creating masks is also provided.
 
 ## Description
 
