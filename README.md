@@ -31,7 +31,7 @@ It is adviced to use gc.collect() function provided in the gc module for automat
 ## Authors
 
 Minttu Pekkala 
-minttu.pekkala@fmi.fi
+contact info: minttu.pekkala@fmi.fi
 
 
 ## License
