@@ -1,65 +1,41 @@
 # Comparison of Surface Albedo and Top of Atmosphere Albedo in the Arctic
 
 This GitHub repository contains Python code used for data analysis executed as a part of 
-Msc thesis via the link below. Data analysis includes combination and reprojection of
-data, masking data, modelling results with SMAC and finally plotting the results. A
-dataset for creating masks is also provided.
+Msc thesis via the link below. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Data analysis includes combination and reprojection of data, masking data, modelling results 
+with SMAC and finally plotting the results. A dataset for creating masks is also provided.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+It is recommended that conda forge Python package manager for module installation. 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+The files in this repository are named in accordance to the stages of analysis. 
+
+Step 1: Combining starting data
+Step 2: Creating Masks for data
+Step 3: Masking data
+Step 4: Modelling results with the Simple Model for Atmospheric Correction (SMAC)
+Step 5: Plotting results of data analysis
+
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+It is adviced to use gc.collect() function provided in the gc module for automatic memory management. 
+
 
 ## Authors
 
-Contributors names and contact info
+Minttu Pekkala 
+minttu.pekkala@fmi.fi
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
