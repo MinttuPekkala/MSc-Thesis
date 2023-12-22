@@ -1,7 +1,7 @@
 # Comparison of Surface Albedo and Top of Atmosphere Albedo in the Arctic
 
 This GitHub repository contains Python code used for data analysis executed as a part of 
-Msc thesis via the link below. 
+Msc thesis project. 
 
 ## Description
 
