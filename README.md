@@ -32,7 +32,7 @@ It is adviced to use gc.collect() function provided in the gc module for automat
 
 Minttu Pekkala 
 
-contact info: minttu.pekkala@fmi.fi
+Contact info: minttu.pekkala@fmi.fi
 
 
 ## License
